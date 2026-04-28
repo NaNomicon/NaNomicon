@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/nan72"><img src="https://api.daily.dev/devcards/v2/0Pwgxd8JXDKz1ZziWduWY.png?type=wide&r=2kx" width="652" alt="NaN's Dev Card"/></a>
 [![https://roadmap.sh/u/nanomicon](https://roadmap.sh/card/wide/67bfe1c2580201fc7727ffae?variant=dark)](https://roadmap.sh)
+<a href="https://app.daily.dev/nan72"><img src="https://api.daily.dev/devcards/v2/0Pwgxd8JXDKz1ZziWduWY.png?type=wide&r=2kx" width="652" alt="NaN's Dev Card"/></a>
 <!-- [![roadmap.sh](https://roadmap.sh/card/wide/67bfe1c2580201fc7727ffae?variant=dark)](https://roadmap.sh) -->
 
 <!--
